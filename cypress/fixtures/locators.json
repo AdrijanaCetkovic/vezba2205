@@ -1,0 +1,22 @@
+{
+    "Login": {
+        "Email": "#email",
+        "Password": "#password",
+        "Submit": ".btn",
+        "LogoutButton": ".ml-auto > :nth-child(3) > .nav-link"
+
+    },
+    "Register": {
+        "FirstName": "#first-name",
+        "LastName": "#last-name",
+        "Email": "#email",
+        "Password": "#password",
+        "PassConfirmed": "#password-confirmation",
+        "Check": "[type='checkbox']",
+        "Submit": ".btn"
+    },
+    "Navigation": {
+        "LoginButton": ".ml-auto > :nth-child(1) > .nav-link"
+    }
+
+}
